@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left"> I'm currently a first-year engineering student at the Schulich School of Engineering, pursuing a major in Software Engineering and a minor in Mechatronics.
+
+My journey in this field is fueled by my passions for full-stack development and business management. I'm striving to making meaningful contributions to the tech world and excited to explore new opportunities.
+
+Beyond my career goals, I love connecting with people and building vibrant communities. My time at Schulich has been incredibly rewarding, allowing me to meet like-minded individuals and create lasting memories. Inspired by those who have guided me, I aim to inspire and support the next generation of engineers.</p>
 
 ###
 
