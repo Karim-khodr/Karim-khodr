@@ -1,8 +1,8 @@
-<h1 align="left">Hello. I'm Karim👋</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="left">About me🌟</h2>
+<h2 align="left">About Me 🌟</h2>
 
 ###
 
@@ -10,21 +10,30 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">Tech Stack 🔧</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
+###
+
+<h2 align="left">Let's Connect! 🌐</h2>
+
+###
+
+<p align="left">I’m always excited to connect with others. Don’t hesitate to email me or connect with me on LinkedIn and GitHub.<br><br>Looking forward to connecting! 🚀</p>
+
+###
